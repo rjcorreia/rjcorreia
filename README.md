@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ricardo Correia
+
++ Fullstack Developer Intern at [Siemens](https://www.siemens.com)
++ Msc Computer Science & Engineering at [IST](https://www.ist.pt)
+
 
 <!--
 **rjcorreia/rjcorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
