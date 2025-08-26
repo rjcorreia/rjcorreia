@@ -1,6 +1,6 @@
 ### Ricardo Correia
 
-+ Fullstack Developer Intern at [Siemens](https://www.siemens.com)
++ Fullstack Developer at [Siemens](https://www.siemens.com)
 + Msc Computer Science & Engineering at [IST](https://www.ist.pt)
 
 
